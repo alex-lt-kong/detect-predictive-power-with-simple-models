@@ -15,9 +15,9 @@ Source: https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritt
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/alex-lt-kong/detecting-causality-with-simple-models/main/digit-recognition/images/results-mlp.png" /></td>
-    <td><img src="https://github.com/alex-lt-kong/detecting-causality-with-simple-models/blob/main/digit-recognition/images/results-svm.png?raw=true" /></td>
-    <td><img src="https://github.com/alex-lt-kong/detecting-causality-with-simple-models/blob/main/digit-recognition/images/results-gb.png?raw=true" /></td>
-    <td><img src="https://github.com/alex-lt-kong/detecting-causality-with-simple-models/blob/main/digit-recognition/images/results-dt.png?raw=true" /></td>
+    <td><img src="https://raw.githubusercontent.com/alex-lt-kong/detecting-causality-with-simple-models/main/digit-recognition/images/results-svm.png" /></td>
+    <td><img src="https://raw.githubusercontent.com/alex-lt-kong/detecting-causality-with-simple-models/main/digit-recognition/images/results-gb.png" /></td>
+    <td><img src="https://raw.githubusercontent.com/alex-lt-kong/detecting-causality-with-simple-models/main/digit-recognition/images/results-dt.png" /></td>
     <td><img src="https://raw.githubusercontent.com/alex-lt-kong/detecting-causality-with-simple-models/main/digit-recognition/images/results-linear.png" /></td>
   </tr>
 </table>
