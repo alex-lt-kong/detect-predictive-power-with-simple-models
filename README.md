@@ -1,4 +1,6 @@
-# Detecting causality with simple models
+# Detecting predictive power/causality/correlation with simple models
+
+**Note**: some readers argue that machine learning is never about causality and it is only about correlation--well I revised the name of the repo to reflect this. Within this repo, these three terms are considered the same.
 
 This project tries to understand one question: say feature set **X** *does* have very good predictive power but the cause and effect relationship is highly non-linear, is it possible to use a very simple model to discover it without relying on domain knowledge? 
 
