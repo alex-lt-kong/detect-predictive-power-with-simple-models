@@ -2,7 +2,7 @@
 
 **Note**: some readers argue that machine learning is never about causality and it is only about correlation--well I revised the name of the repo to reflect this and all the references are changed from causality to predictive power.
 
-This project tries to understand one question: say feature set **X** *does* have some predictive power for **y** but the correlation between **X** and **y** is highly non-linear, can we always detect the existence of such predictive power by only using a "simple" model?
+This project tries to understand one question: say feature set **X** *have* some predictive power for **y** but the correlation between **X** and **y** is highly non-linear, can we always detect the existence of such predictive power by only using a "simple" model?
 
 If the answer to this question is yes, then it implies that, while having a fantastic (i.e., very accurate) model is hard, it is comparatively easy to decide whether or not **X** has some predictive power (but sure we won't be sure about the degree of predicitve power **X** has before deploying a much more flexible model or relying on domain knowledge).
 
