@@ -15,7 +15,7 @@ Source: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
   </tr>
   <tr>
     <td><img src="https://github.com/alex-lt-kong/detect-predictive-power-with-simple-models/blob/d7a37ab63d983690786decb333d9422921030fc9/04_cats-vs-dogs/images/results-cnn.png" /></td>
-    <td><img src="https://github.com/alex-lt-kong/detect-predictive-power-with-simple-models/blob/d7a37ab63d983690786decb333d9422921030fc9/04_cats-vs-dogs/images/results-gb.png" /></td>
+    <td><img src="https://github.com/alex-lt-kong/detect-predictive-power-with-simple-models/blob/3dc7c567e41c015dc067ed421d9a21a256048ab0/04_cats-vs-dogs/images/results-gb.png" /></td>
     <td><img src="https://github.com/alex-lt-kong/detect-predictive-power-with-simple-models/blob/d7a37ab63d983690786decb333d9422921030fc9/04_cats-vs-dogs/images/results-dt.png" /></td>
     <td><img src="https://github.com/alex-lt-kong/detect-predictive-power-with-simple-models/blob/d7a37ab63d983690786decb333d9422921030fc9/04_cats-vs-dogs/images/results-lr.png" /></td>
   </tr>
